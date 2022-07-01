@@ -8,3 +8,5 @@ Food places:
 	o Anatewka
 	o Off Piotrkowska
 	o Ato Ramen
+	o Krowarzywa
+	o Papuvege
