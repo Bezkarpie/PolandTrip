@@ -10,3 +10,5 @@ Food places:
 	o Ato Ramen
 	o Dagrasso
 	o Gruby Benek
+  o Krowarzywa
+	o Papuvege
